@@ -1,1 +1,1 @@
-# Springcomparer
+# Stringcomparer
